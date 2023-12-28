@@ -5,6 +5,8 @@
   *@date 22/12/13
   */
 
+  //Una funcion es un bloque de codigo que realiza una tarea determinada 
+  
   void main() {
 
     int suma = sum(a: 5, b: 8);
@@ -30,4 +32,5 @@ int subtraction(int a, int b){
   return a - b;
 }
 
+//Funcion flecha 
 int multi(int a, int b) => a * b;
